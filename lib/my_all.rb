@@ -10,6 +10,5 @@ def my_all?(collection)
   
   block_return_values.include?(false) ? false : true
     
-  
 
 end
